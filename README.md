@@ -13,6 +13,7 @@ Usage
 * `cd build/jar`
 * `java -jar ./iPhoneJTrack.jar <location of consolidated.db>`
 
+
 Adapted/Forked from 
 
 * [https://github.com/royvanrijn/iPhoneJTrack](https://github.com/royvanrijn/iPhoneJTrack)
