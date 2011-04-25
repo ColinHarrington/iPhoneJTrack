@@ -9,6 +9,10 @@ On a jailbroken iPhone the file should be located at `/private/var/root/Library/
 Usage
 -----
 
+* `ant jar`
+* `cd build/jar`
+* `java -jar ./iPhoneJTrack.jar <location of consolidated.db>`
+
 Adapted/Forked from 
 
 * [https://github.com/royvanrijn/iPhoneJTrack](https://github.com/royvanrijn/iPhoneJTrack)
